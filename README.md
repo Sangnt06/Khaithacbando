@@ -5,7 +5,7 @@
 **I. Quản lý tài khoản**
 
 **1. Thông tin đăng nhập**
-//github.com/Sangnt06/Khaithacbando/blob/main/hinh10-lichsutheodoi.png
+http://github.com/Sangnt06/Khaithacbando/blob/main/hinh10-lichsutheodoi.png
 *Hình 1: Thông tin đăng nhập hệ thống*
 
 1\. NSD truy cập trang <https://c4i2.vbd.vn/> TRUNG TÂM ĐIỀU HÀNH THÔNG MINH

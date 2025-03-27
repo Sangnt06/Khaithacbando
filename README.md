@@ -240,6 +240,4 @@ Tại màn hình chính của chức năng “Khai thác bản đồ”
 
 *Hình 22: Màn hình xóa các điểm/đường/vùng có chướng ngại vật*
 
-Khi muốn thay đổi tìm đường hoặc không tìm theo điều kiện nữa, bấm chọn thùng rác
-
-` `để xóa hoặc chọn “Xóa hết”
+Khi muốn thay đổi tìm đường hoặc không tìm theo điều kiện nữa, bấm chọn thùng rác để xóa hoặc chọn “Xóa hết”

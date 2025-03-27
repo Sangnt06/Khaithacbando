@@ -5,7 +5,7 @@
 **I. Quản lý tài khoản**
 
 **1. Thông tin đăng nhập**
-![Đăng nhập](./images/hinh1-dang-nhap.png)
+hinh1-dang-nhap.png.jpg
 *Hình 1: Thông tin đăng nhập hệ thống*
 
 1\. NSD truy cập trang <https://c4i2.vbd.vn/> TRUNG TÂM ĐIỀU HÀNH THÔNG MINH
